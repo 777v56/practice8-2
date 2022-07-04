@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.list {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.list-text {
+  padding: 20px;
+}
+
+.list-odd {
+  width: 960px;
+  background-color: #f7f7f7;
+}
+
+.box {
+  margin-bottom: 50px;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px 48px;
+}
+
+.box-a {
+  width: 288px;
+  height: 200px;
+  background-color: orange;
+  }
+
+.box-b {
+  width: 288px;
+  height: 200px;
+  background-color: yellow;
+}
+  
